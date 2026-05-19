@@ -1,6 +1,6 @@
 # Blooket Hacks
 
-This repository contains a collection of scripts designed **for educational purposes only** related to Blooket. These tools were made by Advik because apparently some of y’all would rather break the game than study.
+This repository contains a collection of scripts designed **for hacking blooket**  because apparently some of y’all would rather break the game than study.
 
 ## ⚙️ Tampermonkey Installation & Usage
 
